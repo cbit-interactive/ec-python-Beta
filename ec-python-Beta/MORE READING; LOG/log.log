@@ -1,0 +1,7 @@
+SELECT OPPERATION.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+5.Help
+Enter choice(1/2/3/4/5): Enter first number: 
